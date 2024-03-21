@@ -1,0 +1,38 @@
+#log {
+    color: hsl(240, 100%, 70%);
+    font-size: 50px;
+    font-family: Helvetica;
+    text-shadow: 4px 4px 2px black;
+}
+
+.center {
+    border: solid;
+    padding: 10x;
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(189, 162, 162);
+}
+
+h2 {
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#user {
+    color: black;
+}
+
+#pass {
+    color: black;
+}
+
+.button {
+    padding: 5px 25px;
+    background-color: hsl(240, 100%, 70%);
+    color: white;
+    margin-bottom: 30px;
+}
